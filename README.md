@@ -1,5 +1,5 @@
 
-Project Geography!
+Project Donde Queda Mi Cinchorro!
 
 Suggested functionality will be to CRUD Geographical entities such as Cities, States etc. and 
 display them using various technologies but who knows what this thing will do when we are in progress?
